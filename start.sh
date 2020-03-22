@@ -1,0 +1,2 @@
+. /bin/activate
+flask run
